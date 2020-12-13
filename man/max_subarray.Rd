@@ -12,8 +12,7 @@ max_subarray(A)
   \item{A}{an array of length > 0}
 }
 \details{
-With an empty array, the function raise an execption
-}
+The time complexity of this function is linear}
 \value{
 \item{maxSum}{the sum of subarray found by the function}
 \item{indx_start}{the starting index of the subarray in the original array}
